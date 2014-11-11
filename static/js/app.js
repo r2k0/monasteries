@@ -30,7 +30,7 @@
 		lng: -117.924771,
 		icon: iconBase,
 		infoWindow: {
-			content: 'Parami Buddha Vihara<br>1842 Valinda Ave, La Puente, CA 91744<br>(626) 919-3806, (626) 975-3660<br>http://paramiusa.org<br>apannadipa@yahoo.com<br>'
+			content: 'Parami Buddha Vihara<br>1842 Valinda Ave, La Puente, CA 91744<br>(626) 919-3806<br>(626) 975-3660<br><a href="http://paramiusa.org">website</a><br>apannadipa@yahoo.com<br>'
 		}
 		});
 
