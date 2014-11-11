@@ -25,5 +25,14 @@
 			content: 'Dhammasukha Monastery<br>15623 Longworth Avenue, Norwalk, CA 90650<br>(562) 864-3660<br>Dhammasukha@yahoo.com<br>'
 		}
 		});
+	map.addMarker({
+		lat: 34.051618,
+		lng: -117.924771,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Parami Buddha Vihara<br>1842 Valinda Ave, La Puente, CA 91744<br>(626) 919-3806, (626) 975-3660<br>http://paramiusa.org<br>apannadipa@yahoo.com<br>'
+		}
+		});
+
 
 	});
