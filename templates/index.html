@@ -1,0 +1,25 @@
+{% extends "template.html"%}
+{% block content %}
+<head></head>
+<body>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=true"></script>
+	<script src={{ url_for('static', filename='js/gmaps.js') }}></script>
+	<script type="text/javascript">
+		var iconBase = new google.maps.MarkerImage(
+			'http://maps.google.com/mapfiles/kml/pal3/icon23.png',
+			new google.maps.Size(32,32)
+		);
+		var map;
+		$(document).ready(function(){
+		map = new GMaps({
+			el: '#map',
+			lat: 39.3817115,
+			lng: -95.8338672,
+			zoom: 5,
+			zoomControl : true,
+			});
+		});
+</body>
+
+{% endblock %}
