@@ -17,4 +17,13 @@
 			content: 'Azusa Myanmar Buddhist Temple<br>1790-1830 Ranch Road, Azusa, CA 91702<br>(626) 969-2118<br><a href="http://myanmar-pba.org">website</a><br>uayethaka@yahoo.com<br>unyanawara@msn.com<br>'
 		}
 		});
+	map.addMarker({
+		lat: 33.888664,
+		lng: -118.093164,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Dhammasukha Monastery<br>15623 Longworth Avenue, Norwalk, CA 90650<br>(562) 864-3660<br>Dhammasukha@yahoo.com<br>'
+		}
+		});
+
 	});
