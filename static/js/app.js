@@ -14,7 +14,7 @@
 		lng: -117.9088402,
 		icon: iconBase,
 		infoWindow: {
-			content: 'Azusa Myanmar Buddhist Temple<br>1790-1830 Ranch Road, Azusa, CA 91702<br>(626) 969-2118<br>uayethaka@yahoo.com, unyanawara@msn.com<br>http://myanmar-pba.org<br>'
+			content: 'Azusa Myanmar Buddhist Temple<br>1790-1830 Ranch Road, Azusa, CA 91702<br>(626) 969-2118<br><a href="http://myanmar-pba.org">website</a><br>uayethaka@yahoo.com<br>unyanawara@msn.com<br>'
 		}
 		});
 	});
