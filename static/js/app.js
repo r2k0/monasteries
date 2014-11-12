@@ -281,4 +281,76 @@
 			content: 'Chaiya Meditation Monastery<br>7925 S Virtue Ct, Las Vegas, NV 89113<br>(702) 456-3838<br>(702) 219-0377<br><a href="http://chaiyacmm.org">website</a><br>chaiya@chaiyacmm.org<br>'
 		}
 		});
+	map.addMarker({
+		lat: 47.886957,
+		lng: -122.281384,
+		icon: iconBase,
+		infoWindow: {
+			content: 'U Cakkinda<br>3510 122 Place ,SW Lynn Wood,WA 98087<br>(917) 676-4642<br>'
+		}
+		});
+	map.addMarker({
+		lat: 47.380871,
+		lng: -122.203085,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Tipitaka Monastery<br>24625 104th Ave SE, Kent, WA 98030<br>(253) 850-6905<br>'
+		}
+		});
+	map.addMarker({
+		lat: 47.835718,
+		lng: -122.108448,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Dhamma Gonyee<br>17730 Broway Ave, Snohomish, WA 98296<br>(425) 749-6622<br>'
+		}
+		});
+	map.addMarker({
+		lat: 39.759186,
+		lng: -104.830746,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Ashin Sandimar Dhammaparla Vihara<br>3096 Wheeling St, Aurora, CO 80011-2021<br>(303) 343-3691<br>'
+		}
+		});
+	map.addMarker({
+		lat: 45.541046,
+		lng: -122.532538,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Sirimangla Buddhist Monastery<br>12634 NE Russell Street, Portland, OR 97230<br>(503) 253-5318<br>'
+		}
+		});
+	map.addMarker({
+		lat: 30.219450,
+		lng: -97.919855,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Sitagu Buddhist Vihara<br>9001 Honey Comb Dr, Austin, TX 78737<br>(512) 301-3968<br>'
+		}
+		});
+	map.addMarker({
+		lat: 29.996045,
+		lng: -95.469652,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Zeyavati Buddha Vihara<br>14910 Welcome Ln, Houston, TX 77014<br>(713) 933-8580<br>'
+		}
+		});
+	map.addMarker({
+		lat: 29.5816548,
+		lng: -98.1991831,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Aung Myay Thu Kha Alotawpyie Yakethar<br>642 Sassman Rd, Marion, TX 78124<br>(480) 252-2799<br>'
+		}
+		});
+	map.addMarker({
+		lat: 35.221427,
+		lng: -101.7564699,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Sadimon Jeyawadi Temple<br>7301 E Amarillo Blvd, Amarillo, TX 79107<br>(806) 373-5322<br>'
+		}
+		});
 	});
