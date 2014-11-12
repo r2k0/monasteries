@@ -97,4 +97,188 @@
 			content: 'Moe Nyin Taw Ya Monastery<br>2241 San Gabriel Blvd, Rosemead, CA 91770<br>(310) 872-6255<br>'
 		}
 		});
+	map.addMarker({
+		lat: 34.043526,
+		lng: -118.089560,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Daw Dhammethi Silashin Buddhist Center<br>1217 Lawrence Ave, Rosemead, CA 91770<br>(626) 571-0527<br>(626) 644-7146<br>pinnyasiri@hotmail.com<br>'
+		}
+		});
+	map.addMarker({
+		lat: 33.9100257,
+		lng: -117.417455,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Thanti-Thitsar Vipassana Meditation Center<br>2540 Monroe Street, Riverside, CA 92504<br>(951)352-4680<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.423360,
+		lng: -122.424821,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Dhammananda Vihara<br>17450 South Cabrillo Hwy, Half Moon Bay, CA 94019<br>(650) 726-7604<br><a href="http://tbsa.org">website</a><br>tbsa@tbsa.org<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.548841,
+		lng: -122.010588,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Mettananda Vihara<br>4619 Central Ave, Fremont, CA 94536<br>(510) 795-0405<br>adhammapiya@yahoo.com<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.541053,
+		lng: -121.969711,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Kusalakari Corporation<br>40174 Spady Street, Fremont, CA 94538<br>(510) 979-1580<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.870618,
+		lng: -121.267372,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Kusalakari Meditation Center<br>9698 South Pries Road, French Camp, CA 95231<br>(209) 451-2248<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.636010,
+		lng: -122.06604,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Mudita Shwe Kyaung<br>27695 Leidig Ct, Hayward, CA 94544<br>(510) 574-5442<br>(510) 785-9787<br>ashinlay@gmail.com<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.7857417,
+		lng: -122.2245807,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Sasanahitakari Monastery<br>2782 E 22nd Street, Oakland, CA 94601<br>(510) 536-0540<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.987088,
+		lng: -122.304039,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Kaytumadi Dhamma Yaketha<br>1102 Kelvin Road, El Sobrante, CA 94803<br>(510) 223-8853<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.792096,
+		lng: -122.228098,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Dhamma Aye Yate Kyaung<br>2523 23rd Ave, Oakland, CA 94606<br>(510) 533-5962<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.170967,
+		lng: -122.171614,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Taungpulu Kaba Aye Monastery<br>18335 Big Basin Way, Boulder Creek, CA 95006<br>(408) 294-4536<br>(831) 338-4050<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.3283624,
+		lng: -121.8560945,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Tathagata Meditation Center<br>1215 Lucretia Avenue, San Jose, CA 95122<br>(408) 294-4536<br>(408) 977-0300<br><a href="http://tathagata.org">website</a><br>'
+		}
+		});
+	map.addMarker({
+		lat: 38.428013,
+		lng: -121.369890,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Sasana Gonyi Kyaung<br>8930 Campbell Road, Elk Grove, CA 95624<br>(916) 897 8200<br>(916) 477 9068<br><a href="http://sasanagonyikyaung.org">website</a><br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.582445,
+		lng: -122.072962,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Ratanagonyi Kyaung<br>32406 Regents Blvd, Union City, CA 94587-6850<br>(510) 429-1823<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.535068,
+		lng: -122.032597,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Alodawpyie Monastery<br>6263 Thorton Ave, Newark, CA 94560<br>(510) 404-7763<br>(480) 228-7282<br><a href="http://alodawpyei.org">website</a><br>alodawpyei@gmail.com<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.6787819,
+		lng: -122.4787421,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Aung Minglar Buddhist Temple<br>369 Saint Francis Blvd, Daly City, CA 94015<br>(650) 994-2039<br>(650) 868-6960<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.6684197,
+		lng: -122.4775436,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Theravada Dhamma Society<br>699 Serramonte Blvd #101, Daly City, CA 94015<br>(415) 793-2512<br><a href="http://tdsusa.org">website</a><br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.671368,
+		lng: -122.479846,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Yadanar Nyan Yaung Monastery<br>699 Saint Francis Blvd, Daly City, CA 94015<br>(650)755-7179<br>'
+		}
+		});
+	map.addMarker({
+		lat: 37.743170,
+		lng: -122.487193,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Lawkanartha Monastery<br>2364 30th Ave, San Francisco, CA 94116<br>(415) 681-3011<br><a href="http://lawkanartha-monastery.org">website</a><br>'
+		}
+		});
+	map.addMarker({
+		lat: 38.431807,
+		lng: -122.865206,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Sae Taw Win II Dhamma Center<br>8769 Bower Street, Sebastopol, CA 95472<br>(707) 824-4456<br><a href="http://saetawwin2.org">website</a><br>stw2@sonic.net<br>'
+		}
+		});
+	map.addMarker({
+		lat: 33.4177254,
+		lng: -111.5249192,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Alodawpyie Meditation Center<br>254 N Wickiup Road ,Apache Junction ,AZ 85219<br>(480) 288 0789<br>'
+		}
+		});
+	map.addMarker({
+		lat: 33.580571,
+		lng: -112.090602,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Santi Su Kha<br>1424 W Cochise Dr, Phoenix, AZ 85021<br>(602) 354-7559<br>'
+		}
+		});
+	map.addMarker({
+		lat: 36.044375 ,
+		lng: -115.247451,
+		icon: iconBase,
+		infoWindow: {
+			content: 'Chaiya Meditation Monastery<br>7925 S Virtue Ct, Las Vegas, NV 89113<br>(702) 456-3838<br>(702) 219-0377<br><a href="http://chaiyacmm.org">website</a><br>chaiya@chaiyacmm.org<br>'
+		}
+		});
 	});
