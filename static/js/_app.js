@@ -1,47 +1,14 @@
-var iconBase = new google.maps.MarkerImage('http://maps.google.com/mapfiles/kml/pal2/icon10.png', new google.maps.Size(32,32));
-var map;
-
-$(document).ready(function(){
-	if(navigator.geolocation){
-		    navigator.geolocation.getCurrentPosition(function(position){
-				var plat = position.coords.latitude;
-				var plng = position.coords.longitude;
-				map = new GMaps({ 
-				el: '#map',
-				lat: plat,
-				lng: plng,
-				zoom: 8,
-				zoomControl : true,
-				});
-				showMarkers();
-			});
-		
-	}
-	else {
-		map = new GMaps({ 
+	var iconBase = new google.maps.MarkerImage('http://maps.google.com/mapfiles/kml/pal2/icon10.png',
+			new google.maps.Size(32,32));
+	var map;
+	$(document).ready(function(){
+	map = new GMaps({ 
 		el: '#map',
-		lat: 40.40,
-		lng: 95.79,
+		lat: 40.393264,
+		lng: -95.7899219,
 		zoom: 5,
 		zoomControl : true,
 		});
-		showMarkers();
-	}
-
-function showMap(){
-	var plat = position.coords.latitude;
-	var plng = position.coords.longitude;
-	map = new GMaps({ 
-	el: '#map',
-	lat: plat,
-	lng: plng,
-	zoom: 10,
-	zoomControl : true,
-	});
-	showMarkers();
-}
-
-function showMarkers(){	
 	map.addMarker({
 		lat: 34.1538945,
 		lng: -117.9088402,
@@ -386,6 +353,4 @@ function showMarkers(){
 			content: 'Sadimon Jeyawadi Temple<br>7301 E Amarillo Blvd, Amarillo, TX 79107<br>(806) 373-5322<br>'
 		}
 		});
-}
 	});
-
